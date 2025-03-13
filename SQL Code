@@ -37,7 +37,7 @@ ORDER BY COUNT (A.customer_id) DESC
 LIMIT 10
 
 
-### Find the top 5 customers from the top 10 cities who have paid the highest total amount to Rockbuster
+## Find the top 5 customers from the top 10 cities who have paid the highest total amount to Rockbuster
 
 SELECT
 B.customer_id,
