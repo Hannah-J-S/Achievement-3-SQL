@@ -4,8 +4,8 @@
 Rockbuster is a film rental service. 
 
 ### Context
-They used to have physical stores all around the world, but with the rise of online streaming platforms they plan to launch an online rental serice using their exiesting film licenses.
-In order to so they require some insioght into moving renting habits of their customers and other information taht  can help them build a successful online film rental service.
+They used to have physical stores all around the world, but with the rise of online streaming platforms they plan to launch an online rental service using their existing film licenses.
+In order to so they require some insight into moving renting habits of their customers and other information taht  can help them build a successful online film rental service.
 
 ### key Questions
 
